@@ -1,0 +1,45 @@
+.newsite_item_row {
+    margin-bottom: 15px;
+}
+
+.newsite_treeproperty {
+    margin-bottom: 20px;
+}
+
+#newsite_treeproperty_js .file {
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 7px;
+    margin: 0px 4px;
+}
+
+#newsite_treeproperty_js .inherited {
+    background: url('./follow.png') 0 0 no-repeat;
+    background-size: contain;
+}
+
+#newsite_treeproperty_js .not_inherited {
+    background: url('./set.png') 0 0 no-repeat;
+    background-size: contain;
+}
+
+#data_property {
+    min-height: 100px;
+}
+
+.name {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.vakata-context .vakata-contextmenu-disabled a,
+.vakata-context .vakata-contextmenu-disabled a:hover {
+    color: #000;
+    cursor: auto;
+}
+
+.vakata-context li.vakata-contextmenu-disabled i,
+.vakata-context li.vakata-contextmenu-disabled .vakata-contextmenu-sep {
+    display: none;
+}
